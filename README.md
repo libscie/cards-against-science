@@ -1,6 +1,6 @@
 # Cards against science
 
-Scientists need to have some fun every now and then. Take a jab at science with this game and have a good time with your colleagues (but don't you ever party with non-sciencey people?).
+Scientists need to have some fun every now and then. Take a jab at science with this game and have a good time with your colleagues (but don't you ever party with non-sciencey people?). See [here](https://cardsagainsthumanity.com/) what Cards against humanity actually is (if you don't know already).
 
 Liberate Science deviates from the usual CC 0 rights waiver because Cards Against Humanity is licensed CC BY NC SA (we only upgrade the 2.0 to 4.0).
 
