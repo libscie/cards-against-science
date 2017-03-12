@@ -21,3 +21,7 @@ Have at it. If you want to have your suggestions be incorporated, please submit 
 3. Regenerate the cards with [Bigger Blacker Cards](http://biggerblackercards.com/)
 
 4. Accept the pull request will ruthlessly evaluate your lulz.
+
+5. Please keep the ratio of black to white cards minimally at 1:5, that way the game stays playable for 5 people at the bare minimum (pro-tip: use `wc -l black-cards.txt` and divide the number of lines by two to get the number of black cards, same for white).
+
+6. Don't use redundant enters. Whiteline between cards.
