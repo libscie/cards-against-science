@@ -24,4 +24,35 @@ Bayesian statistics.
 
 Frequentist statistics.
 
+Distrubution
+
+P-Hacking
+
+normal
+
+coffee
+
+Impact Factor
+
+Open science
+
+Independent variable
+
+Dependent variable
+
+Type I error
+
+Type II error
+
+Clinical Trial
+
+Fraude
+
+Your mom
+
+Qualitative research
+
+Quantitative research
+
+non normal
 
