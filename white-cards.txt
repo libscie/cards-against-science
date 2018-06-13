@@ -18,13 +18,15 @@ Actually share my data.
 
 Win the Nobel prize.
 
+Win the Ig Nobel prize.
+
 Publication bias.
 
 Bayesian statistics.
 
 Frequentist statistics.
 
-Distrubution
+Distribution
 
 P-Hacking
 
@@ -46,9 +48,9 @@ Type II error
 
 Clinical Trial
 
-Fraude
+Fraud
 
-Your mom
+Your Mom
 
 Your Father
 
@@ -69,3 +71,27 @@ OpenCon
 Reviews
 
 Pseudo-science
+
+Freudian slip
+
+Academic twitter
+
+Redefine statistical significance
+
+Justify your alpha
+
+Undergraduate Research Assisstant
+
+R01 Grants
+
+Revise and Resubmit
+
+Blame it on the Blockchain
+
+Neural networks.
+
+SPSS
+
+Sir Ronald Aylmer Fisher
+
+Dissertating
