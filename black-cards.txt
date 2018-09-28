@@ -2,19 +2,13 @@ I hate it when _ is in my data.
 
 When my supervisor says _ I _.
 
-What annoys you?
-
-When p=.051 I _.
+When p=0.051 I _.
 
 Why are most published research findings false?
 
 When I am a professor, I will create the committee of _.
 
-What's tenure?
-
-My R function is called _.
-
-Elsevier representative: "_ cannot be improved."
+My R package is called _.
 
 _ leads me to _.
 
@@ -22,7 +16,7 @@ I don't always _ but when I do, I _.
 
 While my analyses were running, I _.
 
-Does my _ look _ ?
+Does my _ look like _ ?
 
 I always delete my _.
 
@@ -42,21 +36,27 @@ I would never date another scientist because _.
 
 Social scientists are _. 
 
-I wouldn't do research on _, but I would research _. 
+I wouldn't research _, but I would research _. 
 
 Everyone knows _ is fake science. 
 
-Doing a postdoc is like doing _. 
+Doing a postdoc is like _. 
 
 I tell my Mom I work on _, but really, I work on _. 
 
-_ is to science as _ is to the truth. 
+_ is to _ as science is to the truth. 
 
+_ makes my supervisor happy. 
 
+Some people show up for free food, but I only show up for free _.
 
+My sabbatical will be spent _. 
 
+I love my significant other but, they'll never fulfill me like _ does. 
 
+If it were up to me, I'd CRISPR _. 
 
+Have you heard the new department scandal? It's _. 
 
-
+Presenting the new interdisciplinary science of _ and _. 
 

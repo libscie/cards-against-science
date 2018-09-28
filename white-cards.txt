@@ -1,16 +1,18 @@
 Fabricate data.
 
-Reduce my confidence in scientific results.
+Reduce confidence in scientific results.
 
 Oxytocin.
 
 Academic freedom.
 
-Methodological terrorism.
-
-Statcheck
-
 Publish Open Access.
+
+Exercise science. 
+
+Psychology. 
+
+Microbiology. 
 
 Actually share my data.
 
@@ -24,7 +26,7 @@ Bayesian statistics.
 
 Frequentist statistics.
 
-Distribution.
+Pipette so much I get carpal tunnel. 
 
 P-Hacking.
 
@@ -52,19 +54,15 @@ Your Mom.
 
 Your Daddy. 
 
-Your child locked up in the basement.
-
 Qualitative research.
 
 Quantitative research.
 
 Non-normal.
 
-Phd comics.
+PhD comics.
 
-A phd student who hasn't slept in 3 weeks.
-
-OpenCon.
+A PhD student who hasn't slept in 3 weeks.
 
 Reviews.
 
@@ -88,6 +86,10 @@ Blame it on the Blockchain.
 
 Neural networks.
 
+Animal husbandry. 
+
+Biology. 
+
 SPSS.
 
 Sir Ronald Aylmer Fisher.
@@ -110,9 +112,15 @@ Getting inappropriately drunk at professional events.
 
 Selling out to industry.
 
+Satisfaction at a job well done.
+
+Zoology. 
+
+Ecology. 
+
 Vim keybindings. 
 
-Socially approved slavery. 
+Socially sanctioned servitude. 
 
 The swollen rump of a female baboon in heat.  
 
@@ -121,3 +129,114 @@ Jane Goodall.
 Minutia that no one else cares about.
 
 Curing cancer. 
+
+Chemistry. 
+
+Physics. 
+
+Genetics. 
+
+Code from 1992.
+
+Amateur use of radioactivity.  
+
+The origin of life. 
+
+Fortran. 
+
+Dry heaving because there are no more tears left. 
+
+Unnecessary use of machine learning. 
+
+Incompetence. 
+
+Being the only woman in the room. 
+
+Passive aggressive sticky notes. 
+
+N=10. 
+
+The reproducibility crisis. 
+
+Imposter syndrome. 
+
+Stool samples. 
+
+Wearing the same tee-shirt since undergrad. 
+
+A retracted Nature paper. 
+
+Climate change denial. 
+
+Working on weekends. 
+
+Performing fruit fly dissections. 
+
+Uncomfortable small talk.
+
+An all expenses paid trip to Hawaii but never leaving the conference. 
+
+Reliving my advisor's glory days. 
+
+My supervisor's impressive alcohol tolerance. 
+
+Overly optimistic goals followed by crushing failure. 
+
+Beer hour. 
+
+Multiple hypothesis testing. 
+
+Genuine happiness. 
+
+Wondering if it was all worth it. 
+
+An actual convincing argument. 
+
+Take a vacation day. 
+
+My family wishing that sI was a real doctor. 
+
+Mansplainning. 
+
+Blood, sweat, and tears. 
+
+Marie Curie. 
+
+Richard Feynman.
+
+The mitochondria is the powerhouse of the cell. 
+
+A question that is really a comment. 
+
+Grumpy old professors. 
+
+Grace Hopper. 
+
+Receiving a livable wage. 
+
+IRB approval. 
+
+Become department chair. 
+
+Inaccurate media portrayal of scientists. 
+
+Wet lab. 
+
+Computational sexology. 
+
+Outside the scope of this talk. 
+
+Slack. 
+
+Completely unqualified teacher. 
+
+Needless bureaucracy. 
+
+Mixing up test and training data. 
+
+Overconfidence. 
+
+Proof left as an exercise to the reader. 
+
+Code monkey. 
+
