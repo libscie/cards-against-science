@@ -1,242 +1,1978 @@
-Fabricate data.
+A supermassive black hole.
 
-Reduce confidence in scientific results.
+Reconciling quantum theory with general relativity.
+
+Insufficient serotonin.
+
+Evolving a labyrinthine vagina.
+
+Getting really worried about global warming for a few seconds.
+
+Infinity.
+
+Oxytocin release via manual stimulation of the nipples.
+
+Uranus.
+
+Being knowledgeable in a narrow domain that nobody understands or cares about.
+
+Achieving reproductive success.
+
+Slowly evaporating.
+
+The quiet majesty of the sea turtle.
+
+A 0.7 waist-to-hip ratio.
+
+Fun and interesting facts about rocks.
+
+Photosynthesis.
+
+Developing secondary sex characteristics.
+
+Failing the Turing test.
+
+Explosive decompression.
+
+Driving into a tornado to learn about tornadoes.
+
+David Attenborough watching us mate.
+
+3.7 billion years of evolution.
+
+The Sun engulfing the Earth.
+
+Fabricating data.
+
+Reducing my confidence in scientific results.
 
 Oxytocin.
 
 Academic freedom.
 
-Publish Open Access.
+Methodological terrorism.
 
-Exercise science. 
+Publish open access.
 
-Psychology. 
+Actually sharing data.
 
-Microbiology. 
-
-Actually share my data.
-
-Win the Nobel prize.
-
-Win the Ig Nobel prize.
-
-Publication bias.
+Winning the Nobel prize.
 
 Bayesian statistics.
 
 Frequentist statistics.
 
-Pipette so much I get carpal tunnel. 
-
 P-Hacking.
 
-Normal.
-
-Coffee.
+Surviving on coffee and coffee alone. 
 
 Impact Factor.
 
 Open science.
 
-Independent variable.
+The independent variable.
 
-Dependent variable.
+The dependent variable.
 
-Type I error.
+A type I error.
 
-Type II error.
+A type II error.
 
-Clinical Trial.
+Clinical trials.
 
-Fraud.
-
-Your Mom.
-
-Your Daddy. 
+Scientific fraud. 
 
 Qualitative research.
 
 Quantitative research.
 
-Non-normal.
+Non-normality.
 
-PhD comics.
+Laughing to hide your sadness. 
 
 A PhD student who hasn't slept in 3 weeks.
 
-Reviews.
+Terrible reviews. 
 
 Pseudo-science.
 
-Freudian slip.
+Reviewer #2.
 
-Academic twitter.
+Copy-pasting everything from Stack Overflow.
 
-Redefine statistical significance.
+Lamarckian evolution.
 
-Justify your alpha.
+The luminiferous aether.
 
-Undergraduate Research Assisstant.
+Overfitting.
 
-R01 Grants.
+An open bar at the academic conference.
 
-Revise and Resubmit.
+Animal husbandry.
 
-Blame it on the Blockchain.
+Nature, Science, Cell.
 
-Neural networks.
+Biology.
 
-Animal husbandry. 
-
-Biology. 
+Using CRISPR to drive mosquitoes to extinction.
 
 SPSS.
 
+Getting a grant approved by saying it's about HIV. 
+
 Sir Ronald Aylmer Fisher.
 
-Dissertating.
+Psychology
 
-Elon Musk. 
+Seeing the light at the end of the tunnel. 
+
+George Church
+
+Elon Musk.
+
+Segmentation faults. 
 
 Research parasites.
 
-Pretending to read a paper. 
+Wearing my nicest Hawaiian shirt. 
+
+Pretending to read a paper.
+
+Forking a repository. 
 
 Academic censure.
 
-Lying about your qualifications. 
+Only dating someone without a PhD. 
+
+Lying about your qualifications.
+
+Only dating someone with a PhD. 
 
 Never making eye contact.
 
-Getting inappropriately drunk at professional events. 
+The inescapable allure of seminars with free pizza. 
 
-Selling out to industry.
+Getting inappropriately drunk at professional events.
+
+Doing it at the whiteboard. 
+
+Industry sell-outs. 
+
+The Python programming language
 
 Satisfaction at a job well done.
 
-Zoology. 
+Intellectual superiority. 
 
-Ecology. 
+Zoology.
 
-Vim keybindings. 
+The central dogma. 
 
-Socially sanctioned servitude. 
+Ecology.
 
-The swollen rump of a female baboon in heat.  
+Harvard. 
 
-Jane Goodall. 
+Vim keybindings.
 
-Minutia that no one else cares about.
+A 10 year postdoc. 
 
-Curing cancer. 
+Socially sanctioned servitude.
 
-Chemistry. 
+An overarching sense of guilt. 
 
-Physics. 
+The swollen rump of a female baboon in heat.
 
-Genetics. 
+Not being able to perform basic arithmetic. 
 
-Code from 1992.
+Jane Goodall.
 
-Amateur use of radioactivity.  
+Proofreading emails only after they're sent. 
 
-The origin of life. 
+Being able to name hundreds of bacteria species but none of the Kardashians. 
 
-Fortran. 
+Asking questions to hear the sound of my own voice.
 
-Dry heaving because there are no more tears left. 
+Curing cancer.
 
-Unnecessary use of machine learning. 
+Code that can be used by literally anyone else. 
 
-Incompetence. 
+Chemistry.
 
-Being the only woman in the room. 
+Computer science.
 
-Passive aggressive sticky notes. 
+Physics.
 
-N=10. 
+Begging for governmental funding. 
 
-The reproducibility crisis. 
+Genetics.
 
-Imposter syndrome. 
+An inability to relate to the female sex. 
 
-Stool samples. 
+Fortran.
 
-Wearing the same tee-shirt since undergrad. 
+Performing PCR until I die. 
 
-A retracted Nature paper. 
+The amateur use of radioactivity.
 
-Climate change denial. 
+Quitting while I'm ahead.
 
-Working on weekends. 
+The origin of life.
 
-Performing fruit fly dissections. 
+A Taylor series expansion. 
+
+Perl. 
+
+A life filled with regret. 
+
+Dry heaving because there are no more tears left.
+
+Finding the love of my life in lab. 
+
+Unnecessary use of machine learning.
+
+Protein biosynthesis. 
+
+General incompetence. 
+
+My supervisor calling me at 2AM on a Friday. 
+
+Being the only woman in the room.
+
+My shitty impact score. 
+
+Passive aggressive sticky notes.
+
+Unhealthy sleep habits. 
+
+N=10.
+
+Potatoes having more genes than humans. 
+
+The reproducibility crisis.
+
+Bringing up the principle of assortative mating and Tinder dates. 
+
+Imposter syndrome.
+
+A sweeping sense of superiority. 
+
+Stool samples.
+
+Waiting 20 days for a simulation to run. 
+
+Wearing the same tee-shirt since undergrad.
+
+Saying the future is code while simultaneously making no effort to learn how to code. 
+
+A retracted Nature paper.
+
+Over eager undergraduate research assistants. 
+
+Climate change denial.
+
+Not having an appreciable salary until the age of 40.
+
+Working on weekends.
+
+Software engineers. 
+
+Performing fruit fly dissections.
+
+All my experiments failing. 
 
 Uncomfortable small talk.
 
-An all expenses paid trip to Hawaii but never leaving the conference. 
+Proving something painfully obvious to the general public. 
 
-Reliving my advisor's glory days. 
+An all expenses paid trip to Hawaii but never leaving the conference.
 
-My supervisor's impressive alcohol tolerance. 
+Pre-meds whining about their grades. 
 
-Overly optimistic goals followed by crushing failure. 
+Reliving my advisor's glory days.
 
-Beer hour. 
+Remedial grasp of the English language. 
 
-Multiple hypothesis testing. 
+My supervisor's impressive alcohol tolerance.
 
-Genuine happiness. 
+A master's student. 
 
-Wondering if it was all worth it. 
+Overly optimistic goals followed by crushing failure.
 
-An actual convincing argument. 
+A white man's ego. 
 
-Take a vacation day. 
+Beer hour.
 
-My family wishing that sI was a real doctor. 
+Losing 3 years' worth of data in a server crash.
 
-Mansplainning. 
+Multiple hypothesis testing.
 
-Blood, sweat, and tears. 
+Getting funding from the military and not even feeling bad about it. 
 
-Marie Curie. 
+Genuine happiness.
+
+NP hard problems. 
+
+Wondering if it was all worth it.
+
+Engineers. 
+
+An actual convincing argument.
+
+Science with no benefit to mankind. 
+
+A singular guilt-free vacation day. 
+
+A high school level understanding of statistics. 
+
+My family wishing that I was a real doctor.
+
+Lies about interdisciplinary science. 
+
+Mansplaining.
+
+That old professor from the former Soviet Union. 
+
+Blood, sweat, and tears.
+
+Phoning in my teaching requirements. 
+
+Marie Curie.
+
+Antidepressants. 
 
 Richard Feynman.
 
-The mitochondria is the powerhouse of the cell. 
+Adderall.
 
-A question that is really a comment. 
+The mitochondria is the powerhouse of the cell.
 
-Grumpy old professors. 
+Weed brownies at an otherwise terrible conference. 
 
-Grace Hopper. 
+A question that is really a comment.
 
-Receiving a livable wage. 
+Ignoring most of the feedback I get from my advisor. 
 
-IRB approval. 
+Grumpy old professors.
 
-Become department chair. 
+Soylent.
 
-Inaccurate media portrayal of scientists. 
+Grace Hopper.
 
-Wet lab. 
+Stunning lack of a social life. 
 
-Computational sexology. 
+Receiving a livable wage.
 
-Outside the scope of this talk. 
+A persistent alcohol problem. 
 
-Slack. 
+IRB approval.
 
-Completely unqualified teacher. 
+Polite laughter. 
 
-Needless bureaucracy. 
+A department chair who has lost all sense of reality. 
 
-Mixing up test and training data. 
+Protein pulldown experiments.
 
-Overconfidence. 
+The inaccurate media portrayal of scientists.
 
-Proof left as an exercise to the reader. 
+Making a LinkedIn connection with your ex. 
 
-Code monkey. 
+Wet lab.
+
+The missing heritability crisis. 
+
+Computational sexology.
+
+David Duke. 
+
+Using the phrase "outside the scope of this talk".
+
+Cheap wine. 
+
+Spending one goddamn minute not checking slack. 
+
+H-index
+
+Being completely unqualified to teach. 
+
+Reaching the peak of my career only to spend my days filling out endless paperwork. 
+
+Needless bureaucracy.
+
+Department mandated sexual harassment training. 
+
+The existential fear of mixing up test and training data.
+
+Secretly liking the humanities. 
+
+Unfounded confidence in my experimental results. 
+
+A salty op-ed in the New York Times. 
+
+A proof left as an exercise to the reader.
+
+Tricking the general public into giving up their personal information. 
+
+Code monkeys. 
+
+Taking the principal components just because you heard that's something people do. 
+
+Dark Matter.
+
+Free snacks.
+
+Professors who date students.
+
+The R programming language.
+
+Impenetrable code.
+
+Midday binge drinking.
+
+Tech worker boyfriends.
+
+Women are better than men.
+
+Watching reality TV as a way to numb the pain. 
+
+Kooky socks. 
+
+Cultural irrelevance. 
+
+Donald Trump. 
+
+Writing grants. 
+
+Really needing human organs for a study. 
+
+Taking corporate funding to prove cigarettes aren't that bad. 
+
+Wishing I had competing financial interests to declare. 
+
+Writing in LaTEX. 
+
+Prostitution.
+
+Foreigners. 
+
+Getting a minor in computer science just in case. 
+
+Buying used lab equipment off eBay. 
+
+Learning everything off YouTube videos. 
+
+Scheduling office hours at an inconvenient time and hoping no one shows up. 
+
+Centrifugal force. 
+
+Uncommented code from 1982. 
+
+Scientology.
+
+Not having a good enough GPA to get into med school. 
+
+The microbiome. 
+
+Splurging on the nice kind of ramen noodles. 
+
+Getting compared to a character from the Big Bang Theory. 
+
+Not owning a suit. 
+
+The inevitable extinction of the human population.
+
+Physicists thinking that all science is "just physics." 
+
+Major Depressive Disorder. 
+
+Sneezing into a petri dish of e coli. 
+
+Learning about the intricacies of penile adaptations 
+
+Crying yourself to sleep. 
+
+My PhD. 
+
+Field work in a remote corner of the world. 
+
+A midlife crisis. 
+
+Living off of a graduate student stipend.
+
+Performing basic adult tasks. 
+
+Aliens. 
+
+An honorary degree. 
+
+An obscure protein.
+
+The entropic death of the universe.
+
+Contaminating the incubator.
+
+GWAS.
+
+Really really deep learning. 
+
+Brain surgery, but on mice. 
+
+Cleaning up rat droppings
+
+Arguments for eugenics.
+
+Performing tests on my children
+
+Losing my virginity at a very late age. 
+
+A really big p-value.
+
+A really small p-value.
+
+Overcompensating for your p-value.
+
+Rejecting the null hypothesis. 
+
+The "social" sciences.
+
+Stealing office supplies.
+
+Hiding beer in the cold room.
+
+Drinking the 100% EtOH.
+
+Name-dropping my PI
+
+Co-first author.
+
+BIG data.
+
+Explaining my research to my family. 
+
+Feeling like you got hit by a bus.
+
+Gesticulation. 
+
+Working in Excel.
+
+Being an above average percent Neanderthal.
+
+Only using the word sexy to describe science. 
+
+Lasers.
+
+Spending hours on a poster that no one is going to read. 
+
+Getting scooped. 
+
+Naming inanimate objects. 
+
+The amazing, wonderous, electron microscope.
+
+"Bench to bedside."
+
+Writing a textbook and then making my undergraduates buy it.
+
+Orthogonal assays.
+
+A terrible backronym.
+
+Cockroaches.
+
+Having a real job.
+
+Escaped lab animals.
+
+"Working remotely."
+
+A scientific justification for being a terrible person. 
+
+Multi-omics. 
+
+Science twitter scandals.
+
+Desperation. 
+
+Pushing your own agenda.
+
+Cushy science. 
+
+Experiencing inordinate attraction to a graph. 
+
+A series of tiny shell scripts.
+
+Streaking through the wetlab.
+
+The command-line. 
+
+Slave labor. 
+
+Making up a discipline. 
+
+Paradigm shift. 
+
+Gratuitous single-cell RNA-seq.
+
+Confusing astronomy with astrology. 
+
+Millennials. 
+
+Putting it all in the supplementary.
+
+Killing the cluster.
+
+Crippling debt. 
+
+Economics. 
+
+The irrepressible need to always be correct. 
+
+Homo sapiens. 
+
+Independent wealth. 
+
+A flawed moral compass. 
+
+An unexpected result that I will choose to ignore.
+
+Meetings before 10AM. 
+
+Hubris. 
+
+A lack of knowledge about current events. 
+
+Sex in the missionary position. 
+
+Meetings wasted on figuring out how the AV equipment work. 
+
+Burning it all down and starting over. 
+
+An HHMI investigator. 
+
+An early career scientist. 
+
+Pitifully low standards. 
+
+Unadulterated genius. 
+
+Nature versus nurture. 
+
+Liking porn on my professional twitter account. 
+
+Slacktavism. 
+
+Internet arguments about science. 
+
+The alt-right co-opting your research. 
+
+A healthy work life balance. 
+
+The I Fucking Love Science facebook page. 
+
+The income to afford a house. 
+
+When all my friends are having babies and I only have my dissertation. .
+
+Living in denial. 
+
+Intra-department intrigue. 
+
+Swear words used in professional settings. 
+
+Exaggerating my research to make it sound more interesting. 
+
+Hate fucking. 
+
+Reminiscing about the one time I did LSD. 
+
+Disappointment. 
+
+Constant disapproval from my advisor. 
+
+More than 100 tabs open at once. 
+
+Being kind of an asshole. 
+
+Geology. 
+
+Peaking at age 22.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
