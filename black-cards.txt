@@ -1,31 +1,138 @@
-I hate it when _ is in my data.
+In line with our predictions, we find a robust correlation between ______ and ______ (p<.05).
 
-[[2]] When my supervisor says _ I _.
+In what’s being hailed as a major breakthrough, scientists have synthesized ______ in the lab.
 
-What annoys you?
+A study published in Nature this week found that ______ is good for you in small doses.
 
-When p=.051 I _.
+In an attempt to recreate conditions just after the Big Bang, physicists at the LHC are observing collisions between ______ and ______.
+
+What really killed the dinosaurs?
+
+Hey there, Young Scientists! Put on your lab coats and strap on your safety goggles, because today we're learning about ______!
+
+Today on Mythbusters, we find out how long ______ can withstand ______.
+
+I hate it when ______ is in my data.
+
+When my supervisor says ______ I ______.
+
+Scientists have discovered the meaning of life! It is ______. 
+
+When p=0.051 I ______.
 
 Why are most published research findings false?
 
-When I am a professor, I will create the committee of _.
+When I am a professor, I will create the committee of ______.
 
-What's tenure?
+What is tenure?
 
-My R function is called _.
+My R package is called ______.
 
-Elsevier representative: "_ cannot be improved."
+In my humble opinion, ______ cannot be improved."
 
-_ leads me to _.
+The key to a long and successful scientific career is ______ and ______. 
 
-[[2]] I don't always _ but when I do, I _.
+When I think of my advisor, I think of ______. 
 
-While my analyses were running, I _.
+While my analyses were running, I ______.
 
-Does my _ look _ ?
+The scientific method involves asking a question, designing an experiment, testing that experiment, and ______. 
 
-I always delete my _
+Why did my latest experiment fail? 
 
-I would trade _ for _
+I would trade ______ for ______.
 
-_ is paywalled
+In conclusion, we demonstrated that ______ leads to ______. 
+
+Abiogenesis occurred on Earth 3.7 billion years ago, when particles of ______ combined with ______ in a shallow pool of ______.
+
+In a paper recently released on arXiv, researchers at Google have trained a neural net capable beating human opponents at _______.
+
+The ______ is the powerhouse of the ______.
+
+There is a desperate need for a journal club focusing on ______ at this university.
+
+As of yet, the most compelling research I have ever seen is on  ______.
+
+I would do ______ to get tenure.
+
+Grants should always start with ______ and end with ______. 
+
+The ends justify the ______.
+
+My last poster presentation was about ______.
+
+The Theory of Everything unifies the fields of ______ and ______.
+
+______ is why my paper was rejected from Nature.
+
+I would never date another scientist because of their ______.
+
+This new field of science combines _______ and _______
+
+Social scientists are ______.
+
+Vim and Emacs are OK editors, but I prefer ________
+
+I wouldn't dare research ______, but I would research ______.
+
+After winning the superbowl, football players go to Disney World. After winning the Nobel Prize, most scientists go to  ______. 
+
+Everyone knows _____ is fake science.
+
+______ should be considered a science. 
+
+A postdoctoral fellowship is just a fancy way of saying ______.
+
+My new startup uses genetics to predict _______
+
+I tell my Mom I work on ______, but really, I work on ______.
+
+The ______ genome is ______
+
+______ is to ______ as science is to the truth.
+
+They're remaking the Big Bang Theory based on my life. It will obviously feature lots of ______. 
+
+The only thing that makes my supervisor happy is ______. 
+
+During my most recent lab meeting, I contemplated _____
+
+Some people go to seminars for the free food, but I only show up for ______.
+
+A little known fact is that before he studied gravity, Newton studied ______. 
+
+My sabbatical will be spent ______.
+
+My science rap album contains several songs about ________
+
+I love my significant other but, they'll never fulfill me like ______ does.
+
+The undergrads in my lab can't even ______.
+
+If it were up to me, I'd use CRISPR to cure  ______.
+
+My BS in Physics has given me incredible skills in ______.
+
+Have you heard about the new department scandal? It's over ______.
+
+______ will totally be useful for my industry resume.
+
+In a surprising twist, ______ is found to be at the center of the Earth.
+
+______ is the reason I haven't graduated yet.
+
+23andme has acquired ______ in order to  ______
+
+The latest "sexy" scientific field: ______
+
+Every time someone brings up ______, I throw up a little in my mouth.
+
+github.com/_____/_____
+
+We can just fix that with a little ______.
+
+My lab's version control system is just ______.
+
+The last four papers I read were about ______.
+
